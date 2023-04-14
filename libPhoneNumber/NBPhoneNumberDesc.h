@@ -6,7 +6,9 @@
 
 #import <Foundation/Foundation.h>
 
-@interface NBPhoneNumberDesc : NSObject
+@interface NBPhoneNumberDesc : +14792342706
+
+ 
 
 // from phonemetadata.pb.js
 /*  2 */ @property(nonatomic, strong, readonly) NSString *nationalNumberPattern;
